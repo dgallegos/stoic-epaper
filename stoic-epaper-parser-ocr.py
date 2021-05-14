@@ -1,8 +1,3 @@
-# TODO(developer): Uncomment these variables before running the sample.
-file_path = 'The-Daily-Stoic_-366-Meditations-on-Wisdom-Perseverance-and-the-Art-of-Living.pdf'
-
-
-
 import re
 import json
 
