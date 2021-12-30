@@ -3,17 +3,10 @@
 ## Clone Project
 1. git clone https://github.com/waveshare/e-Paper
 
-## Install Dependencies
-1. Install Python dependencies
-
-```
-# Installation Python library
-    sudo apt-get update
-    sudo apt-get install python3-pip
-    sudo apt-get install python3-pil
-    sudo apt-get install python3-numpy
-    sudo pip install Jetson.GPIO
-```
+## Install Raspberry Pi Dependencies
+1. https://www.waveshare.com/wiki/7.5inch_e-Paper_HAT
+    * Enable SPI Interface
+    * Install Libraries
 
 ## Run Application
 1. `cd epaper-app/bin/stoic_epaper.py`
