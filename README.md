@@ -7,6 +7,9 @@
 1. https://www.waveshare.com/wiki/7.5inch_e-Paper_HAT
     * Enable SPI Interface
     * Install Libraries
+    * `sudo python setup.py install`
+
+
 
 ## Run Application
 1. `cd epaper-app/bin/stoic_epaper.py`
